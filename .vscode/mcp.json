@@ -12,6 +12,9 @@
                 "COSMOS_DATABASE_ID": "Your Database ID",
                 "COSMOS_CONTAINER_ID": "Vehicles"
             }
+        },
+        "rust-echo": {
+            "command": "C:\\Cosmos\\mcp\\azure-cosmos-mcp-server\\rust\\target\\release\\rust-mcp-server.exe",
         }
     }
 }
